@@ -7,6 +7,7 @@ public class Lab8SampleClass {
 		Lab8SampleClass lib = new Lab8SampleClass();
 		if(lib.someLibraryMethod())
 		System.out.println("When there is a file, commit and push");
+		System.out.println("Made some change here");
 	}
     public boolean someLibraryMethod() {
         return true;
